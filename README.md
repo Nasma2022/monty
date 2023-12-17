@@ -1,1 +1,3 @@
-0x19. C - Stacks, Queues - LIFO, FIFO
+Monty 
+
+Nas x keV
